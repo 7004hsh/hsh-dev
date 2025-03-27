@@ -1,0 +1,8 @@
+/* 푸터 아이콘 중앙 정렬 */
+.footer .contact-links {
+  display: flex;
+  justify-content: center; /* 가운데 정렬 */
+  gap: 1.2rem; /* 아이콘 사이 간격 */
+  flex-wrap: wrap;
+  padding-top: 0.5rem;
+}

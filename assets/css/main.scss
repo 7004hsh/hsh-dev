@@ -1,5 +1,5 @@
 ---
 ---
 
-@import "main";
-@import "addon/custom";
+@import "main";         // 이건 Chirpy 테마 내부 기본
+@import "addon/custom"; // 이건 우리가 만든 커스텀 CSS
